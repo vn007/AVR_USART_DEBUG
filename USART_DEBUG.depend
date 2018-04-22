@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1480313170 source:c:\data\prj\atmel\avr\test\codeblocks\usart_debug\fuse.c
+	<avr/io.h>
+
+1480614770 source:c:\data\prj\atmel\avr\test\codeblocks\usart_debug\i2c.c
+	"i2c.h"
+
+1467670696 c:\data\prj\atmel\avr\test\codeblocks\usart_debug\i2c.h
+	<avr/io.h>
+
+1480778580 source:c:\data\prj\atmel\avr\test\codeblocks\usart_debug\uart.c
+	"uart.h"
+	"math.h"
+
+1479537970 c:\data\prj\atmel\avr\test\codeblocks\usart_debug\uart.h
+	<avr/io.h>
+
